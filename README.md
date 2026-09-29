@@ -14,3 +14,7 @@ find the 2nd largest element.
 write a java code to create animal hierarchy with class animal subclassdog,fox,rabbit.
 write a java code for method overloading, a string where each class inherits to string from object and overriders that to see how the object can be printed.
 write a java code to implement the abstraction by using shapes and 2 subclasses which can have functionality in different ways.
+Managing a To-Do List Adding, removing and iterating over a simple Array List of tasks.
+Accessing and Removing elements in a LinkedList by using its operations.
+Write a java program by using try catch and finally block for any arithmetic exception or array index out of bound exception.
+Give an array of integers return the number of distinct absolute values among the elements of the array. Absolute of any value is defined as its positive equivalent. ABS(-5) = ABS(5) = 5 or Mathematically |-5| = |5| = 1.
