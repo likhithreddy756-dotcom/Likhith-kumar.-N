@@ -7,7 +7,7 @@ code for adding rows on matrix.
 write a code by using 3 methods of string.
 write a code by splitting a sentence into word and then rebuilt it in new format & code for fiboncci with recursion.
 find the largest element in array.
-write code for selection sort and insection sort.
+write code for selection sort and insertion sort.
 counting vowels in string.
 Reversing an array in place.
 find the 2nd largest element.
@@ -21,3 +21,4 @@ Give an array of integers return the number of distinct absolute values among th
 Create a class which can shared by two objects (student)for name and marks in a subject.
 Given an array of integers and an integer target, print indices of the two numbers such that the numbers add up to target.You may assume that each input would have exactly one solution, and you may not use the same element twice.You must print the answer indices in ascending order.If no such pair exists, return [-1, -1].
 You are given N strings of length M. count the number of anagramic groups. An anagramic group is a list of strings which are anagrams of each other. Two strings are considered as anagrams of each other if both the strings are permutations of each other.
+Write a SQL queue for creating a student table which has roll no, name, age, date of birth, email ID, phone number, adress and the primary keys are student ID, name, email ID and phone number should not be null and insect any three records into the table.
